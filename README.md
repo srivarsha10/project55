@@ -24,10 +24,15 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Screenshot (34)](https://user-images.githubusercontent.com/114715588/203888466-a640b83a-f083-4e55-95a2-725abd64e803.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/114715588/203889123-0bde565a-5535-494e-898d-f58258e0013b.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/114715588/203889135-4de9eb74-3712-4908-a76b-afa9813ae82b.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/114715588/203889149-56f79477-ec7d-4f35-8bf4-0d9c43756f10.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/114715588/203889162-311ad9f3-1e47-42c6-b009-023dd7e8375f.png)
 
+![Screenshot (41)](https://user-images.githubusercontent.com/114715588/203889168-29cfa3a5-912f-462d-8a99-40e027b2ed33.png)
 
-![Screenshot (36)](https://user-images.githubusercontent.com/114715588/203888737-41f3228b-7ea6-4dde-9b06-370713aec899.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/114715588/203889177-1321d2cc-9f9b-4d3f-a995-3d5fb4ce0524.png)
+
 
 
    
